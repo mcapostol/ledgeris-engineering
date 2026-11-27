@@ -1,0 +1,2 @@
+Synthetic internal note: investigate the documented variance before sign-off.
+This working paper must never appear in a client dossier.
